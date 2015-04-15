@@ -1,6 +1,6 @@
 # meteor-danmu
-a barrage of video for meteor (meteor的一个弹幕视频插件)
-
+a barrage of video for meteor (meteor的一个弹幕视频插件)  
+this package has exsit on the [meteor atmosphere](https://atmospherejs.com/jquick/video-danmu)
 #### Add to your project
     meteor add jquick:video-danmu  
   
